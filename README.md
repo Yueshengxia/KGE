@@ -358,7 +358,7 @@ Thanks for your attention and kind words! I will update KGE later.
 - <a name="HECERN"></a> **(HECERN)** Yujia Yang, Conghui Zheng, Li Pan. "**Homogeneous Entity Context Enhanced Representation Network for Temporal Knowledge Graph Reasoning**". **`ICDM 2023`**. [paper](https://ieeexplore.ieee.org/document/10415657)
 
 - <a name="ExpressivE"></a> **(ExpressivE)** Aleksandar Pavlovic, Emanuel Sallinger. "**ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion**". **`ICLR 2023`**. [paper](https://openreview.net/forum?id=xkev3_np08z) :fire:
-- 
+
 - <a name="HiRe"></a> **(HiRe)** Han Wu, Jie Yin, Bala Rajaratnam, Jianyuan Guo. "**Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion**". **`ICLR 2023`**. [paper](https://openreview.net/forum?id=zlwBI2gQL3K) :fire:
 
 - <a name="LERP"></a> **(LERP)** Chi Han, Qizheng He, Charles Yu, Xinya Du, Hanghang Tong, Heng Ji. "**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**". **`ICLR 2023`**. [paper](https://openreview.net/forum?id=JdgO-ht1uTN) [code](https://github.com/Glaciohound/LERP)
