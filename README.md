@@ -7,27 +7,13 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ## Contents
 
-* [Libraries](#Libraries)
-* [Methodologies](#methodologies)
+* [Survey](#survey)
+* [Methods](#methods)
 * [Papers](#papers)
 
-## Libraries
+## Survey
 
-- µKG [code](https://github.com/nju-websoft/muKG)
-- AmpliGraph [code](https://github.com/Accenture/AmpliGraph)
-- DGL-KE [code](https://github.com/awslabs/dgl-ke)
-- GraphVite [code](https://github.com/DeepGraphLearning/graphvite)
-- LibKGE [code](https://github.com/uma-pi1/kge)
-- NeuralKG [code](https://github.com/zjukg/NeuralKG)
-- OpenKE [code](https://github.com/thunlp/OpenKE)
-- PyKEEN [code](https://github.com/pykeen/pykeen)
-- Pykg2vec [code](https://github.com/Sujit-O/pykg2vec)
-- PyTorch-BigGraph [code](https://github.com/facebookresearch/PyTorch-BigGraph)
-- Scikit-KGE [code](https://github.com/mnick/scikit-kge)
-- StellerGraph [code](https://github.com/stellargraph/stellargraph)
-- TorchKGE [code](https://github.com/torchkge-team/torchkge)
-
-## Methodologies
+## Methods
 
 ## Papers
 
