@@ -17,6 +17,30 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ## Papers
 
+### 2025
+
+#### Conference
+
+- <a name="CustomizE"></a> **(CustomizE)** Zhanpeng Guan, Zhao Zhang, Yiqing Wu, Fuwei Zhang, Yongjun Xu. "**Should We Use a Fixed Embedding Size? Customized Dimension Sizes for Knowledge Graph Embedding**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.604/)
+
+- <a name="DaBR"></a> **(DaBR)** Weihua Wang, Qiuyu Liang, Feilong Bao, Guanglai Gao. "**Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.284/)
+
+- <a name="FtG"></a> **(FtG)** Ben Liu, Jihai Zhang, Fangquan Lin, Cheng Yang, Min Peng. "**Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.740/)
+
+- <a name="HERLN"></a> **(HERLN)** Yuwei Du, Xinyue Liu, Wenxin Liang, Linlin Zong, Xianchao Zhang. "**Hawkes based Representation Learning for Reasoning over Scale-free Community-structured Temporal Knowledge Graphs**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.198/)
+
+- <a name="ILPN"></a> **(ILPN)** Jiyao Wei, Saiping Guan, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng. "**Inductive Link Prediction in N-ary Knowledge Graphs**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.595/)
+
+- <a name="KGCAT"></a> **(KGCAT)** Xinyi Qiu, Zhiyun Chen. "**A Knowledge Graph Reasoning-Based Model for Computerized Adaptive Testing**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.354/)
+
+- <a name="KG-TRICK"></a> **(KG-TRICK)** Zelin Zhou, Simone Conia, Daniel Lee, Min Li, Shenglei Huang, Umar Farooq Minhas, Saloni Potdar, Henry Xiao, Yunyao Li. "**KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.611/)
+
+- Qiyuan He, Yizhong Wang, Jianfei Yu, Wenya Wang. "**Language Models over Large-Scale Knowledge Base: on Capacity, Flexibility and Reasoning for New Facts**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.118/)
+
+- <a name="RLEE"></a> **(RLEE)** Longzhou Liu, Chenglong Xiao, Shanshan Wang, Tingwen Liu. "**Relation Logical Reasoning and Relation-aware Entity Encoding for Temporal Knowledge Graph Reasoning**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.88/)
+
+- <a name="SNAG"></a> **(SNAG)** Zhuo Chen, Yin Fang, Yichi Zhang, Lingbing Guo, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. "**Noise-powered Multi-modal Knowledge Graph Representation Framework**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.11/)
+
 ### 2024
 
 #### Journal
