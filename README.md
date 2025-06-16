@@ -21,9 +21,15 @@ Thanks for your attention and kind words! I will update KGE later.
 
 #### Journal
 
+- <a name="RGAT-PRotatE"></a> **(RGAT-PRotatE)** Chang Su, Qi Jiang, Yong Han, Tao Wang, Qingchen He. "**Knowledge graph-driven decision support for manufacturing process: A graph neural network-based knowledge reasoning approachm**". **`Advanced Engineering Informatics 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1474034624007493?via%3Dihub)
+
 - <a name="BHRAM"></a> **(BHRAM)** Chaoqun Zhang, Wanqiu Li, Yuanbin Mo, Weidong Tang, Haoran Li, Zhilin Zeng. "**BHRAM: a knowledge graph embedding model based on bidirectional and heterogeneous relational attention mechanism**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-06212-4)
 
 - <a name="CALP"></a> **(CALP)** Shijie Zan, Weidong Ji, Guohui Zhou. "**Knowledge graph embeddings based on 2d convolution and self-attention mechanisms for link prediction**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05977-y)
+
+- <a name="DA-ARKGC"></a> **(DA-ARKGC)** Na Zhou, Yuan Yuan, Lei Chen. "**A two-stage knowledge graph completion based on LLMs' data augmentation and atrous spatial pyramid pooling**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06556-5)
+
+- <a name="DARKR"></a> **(DARKR)** Xuhua Yang, Tao Wang, Ji-Song Gan, Liang-Yu Gao, Gang-Feng Ma, Yan-Bo Zhou. "**Reinforcement knowledge graph reasoning based on dual agents and attention mechanism**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-06162-x)
 
 - <a name="ERAGNN"></a> **(ERAGNN)** Guoshun Xu, Guozheng Rao, Li Zhang, Qing Cong. "**Entity-relation aggregation mechanism graph neural network for knowledge graph embedding**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05907-y)
 
