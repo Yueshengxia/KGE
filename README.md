@@ -31,6 +31,10 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="DARKR"></a> **(DARKR)** Xuhua Yang, Tao Wang, Ji-Song Gan, Liang-Yu Gao, Gang-Feng Ma, Yan-Bo Zhou. "**Reinforcement knowledge graph reasoning based on dual agents and attention mechanism**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-06162-x)
 
+- Hao Liu, Dong Li, Bing Zeng, Yang Xu. "**Learning discriminative features for multi-hop knowledge graph reasoning**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06327-2)
+
+- <a name="EDMSConvKE"></a> **(EDMSConvKE)** Panfei Yin, Erping Zhao, Bianbadroma, Ngodrup. "**A knowledge graph completion model based on weighted fusion description information and transform of the dimension and the scale**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06230-w)
+
 - <a name="ERAGNN"></a> **(ERAGNN)** Guoshun Xu, Guozheng Rao, Li Zhang, Qing Cong. "**Entity-relation aggregation mechanism graph neural network for knowledge graph embedding**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05907-y)
 
 - <a name="GLARGCN"></a> **(GLARGCN)** Shuo Wang, Shuxu Chen, Zhaoqian Zhong. "**Global and local information-aware relational graph convolutional network for temporal knowledge graph completion**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05987-w)
