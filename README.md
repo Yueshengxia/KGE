@@ -39,11 +39,21 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="GLARGCN"></a> **(GLARGCN)** Shuo Wang, Shuxu Chen, Zhaoqian Zhong. "**Global and local information-aware relational graph convolutional network for temporal knowledge graph completion**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05987-w)
 
+- <a name="LTRGN"></a> **(LTRGN)** 	Weida Liu, Baohua Qiang, Ruidong Chen, Yuan Xie, Lirui Chen, Zhiqin Chen. "**Linear self-attention with multi-relational graph for knowledge graph completion**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06592-1)
+
 - <a name="MPLR"></a> **(MPLR)** Haotian Li, Bailing Wang, Kai Wang, Rui Zhang, Yuliang Wei. "**An original model for multi-target learning of logical rules for knowledge graph reasoning**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-05966-1)
+
+- <a name="MSDE"></a> **(MSDE)** Tianyi Xu, Yan Wang, Wenbin Zhang, Yue Zhao, Jian Yu, Mei Yu, Jiujiang Guo, Mankun Zhao. "**Multi-perspective semantic decoupling and enhancement in graph attention network for knowledge graph completion**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06520-3)
 
 - <a name="NP-FedKGC"></a> **(NP-FedKGC)** Songsong Liu, Wenxin Li, Xiao Song, Kaiqi Gong. "**NP-FedKGC: a neighbor prediction-enhanced federated knowledge graph completion model**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-06201-7)
 
+- <a name="OTMKGRL"></a> **(OTMKGRL)** Tao Wang, Bo Shen. "**OTMKGRL:a universal multimodal knowledge graph representation learning framework using optimal transport and cross-modal relation**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06459-5)
+
 - <a name="PFedEG"></a> **(PFedEG)** Xiaoxiong Zhang, Zhiwei Zeng, Xin Zhou, Dusit Niyato, Zhiqi Shen. "**Personalized federated knowledge graph embedding with client-wise relation graph**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-06211-5)
+
+- <a name="REFD"></a> **(REFD)** Qian Liu, Siling Feng, Mengxing Huang, Uzair Aslam Bhatti. "**REFD:recurrent encoder and fusion decoder for temporal knowledge graph reasoning**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06445-x)
+
+- <a name="SFP"></a> **(SFP)** Jingbin Wang, Xifan Ke, Fufuan Zhang, Yuwei Wu, Sirui Zhang, Kun Guo. "**SFP: temporal knowledge graph completion based on sequence-focus patterns representation learning**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06306-7)
 
 - <a name="KGCD"></a> **(KGCD)** Wenlong Hou, Weidong Zhao, Ning Jia, Xianhui Liu. "**Low-resource knowledge graph completion based on knowledge distillation driven by large language models**". **`Applied Soft Computing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494624013966?via%3Dihub)
 
