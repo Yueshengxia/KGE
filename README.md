@@ -109,6 +109,12 @@ Thanks for your attention and kind words! I will update KGE later.
 
 #### Conference
 
+- <a name="5EL"></a> **(5EL)** Sensen Zhang, Xun Liang, Simin Niu, Zhendong Niu, Bo Wu, Gengxin Hua, Long Wang, Zhenyu Guan, Hanyu Wang, Xuan Zhang, Zhiyu Li, Yuefeng Ma. "**Integrating Large Language Models and Mobius Group Transformations for Temporal Knowledge Graph Embedding on the Riemann Sphere**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33449)
+
+- <a name="APKGC"></a> **(APKGC)** Yue Jian, Xiangyu Luo, Zhifei Li, Miao Zhang, Yan Zhang, Kui Xiao, Xiaoju Hou. "**APKGC: Noise-enhanced Multi-Modal Knowledge Graph Completion with Attention Penalty**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33645)
+
+- <a name="CATS"></a> **(CATS)** Muzhi Li, Cehao Yang, Chengjin Xu, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King. "**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33318)
+
 - <a name="CustomizE"></a> **(CustomizE)** Zhanpeng Guan, Zhao Zhang, Yiqing Wu, Fuwei Zhang, Yongjun Xu. "**Should We Use a Fixed Embedding Size? Customized Dimension Sizes for Knowledge Graph Embedding**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.604/)
 
 - <a name="DaBR"></a> **(DaBR)** Weihua Wang, Qiuyu Liang, Feilong Bao, Guanglai Gao. "**Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.284/)
