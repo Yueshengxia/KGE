@@ -115,6 +115,36 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="CATS"></a> **(CATS)** Muzhi Li, Cehao Yang, Chengjin Xu, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King. "**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33318)
 
+- <a name="CBLiP"></a> **(CBLiP)** Sharmishtha Dutta, Alex Gittens, Mohammed J. Zaki, Charu C. Aggarwal. "****". **`AAAI 2025`**. [paper]()
+
+- <a name="DPCL-Diff"></a> **(DPCL-Diff)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="FULORA"></a> **(FULORA)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="KGCRR"></a> **(KGCRR)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="LACT"></a> **(LACT)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="LightPROF"></a> **(LightPROF)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="LLM-DR"></a> **(LLM-DR)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="MCKGC"></a> **(MCKGC)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="RAA-KGC"></a> **(RAA-KGC)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="RuleGNN"></a> **(RuleGNN)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="S2DN"></a> **(S2DN)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="SEmPI"></a> **(SEmPI)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="SPAC"></a> **(SPAC)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="TARGI"></a> **(TARGI)** . "****". **`AAAI 2025`**. [paper]()
+
+- <a name="UAG"></a> **(UAG)** . "****". **`AAAI 2025`**. [paper]()
+
 - <a name="CustomizE"></a> **(CustomizE)** Zhanpeng Guan, Zhao Zhang, Yiqing Wu, Fuwei Zhang, Yongjun Xu. "**Should We Use a Fixed Embedding Size? Customized Dimension Sizes for Knowledge Graph Embedding**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.604/)
 
 - <a name="DaBR"></a> **(DaBR)** Weihua Wang, Qiuyu Liang, Feilong Bao, Guanglai Gao. "**Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.284/)
