@@ -115,11 +115,11 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="CATS"></a> **(CATS)** Muzhi Li, Cehao Yang, Chengjin Xu, Zixing Song, Xuhui Jiang, Jian Guo, Ho-fung Leung, Irwin King. "**Context-aware Inductive Knowledge Graph Completion with Latent Type Constraints and Subgraph Reasoning**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33318)
 
-- <a name="CBLiP"></a> **(CBLiP)** Sharmishtha Dutta, Alex Gittens, Mohammed J. Zaki, Charu C. Aggarwal. "****". **`AAAI 2025`**. [paper]()
+- <a name="CBLiP"></a> **(CBLiP)** Sharmishtha Dutta, Alex Gittens, Mohammed J. Zaki, Charu C. Aggarwal. "**Replacing Paths with Connection-Biased Attention for Knowledge Graph Completion**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33632)
 
-- <a name="DPCL-Diff"></a> **(DPCL-Diff)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="DPCL-Diff"></a> **(DPCL-Diff)** Yukun Cao, Lisheng Wang, Luobin Huang. "**DPCL-Diff: Temporal Knowledge Graph Reasoning Based on Graph Node Diffusion Model with Dual-Domain Periodic Contrastive Learning**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33623)
 
-- <a name="FULORA"></a> **(FULORA)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="FULORA"></a> **(FULORA)** Zijian Wang, Bin Wang, Haifeng Jing, Huayu Li, Hongbo Dou. "**Walk Wisely on Graph: Knowledge Graph Reasoning with Dual Agents via Efficient Guidance-Exploration**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33398)
 
 - <a name="KGCRR"></a> **(KGCRR)** . "****". **`AAAI 2025`**. [paper]()
 
