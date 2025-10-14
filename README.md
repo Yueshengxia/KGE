@@ -137,13 +137,13 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="S2DN"></a> **(S2DN)** Tengfei Ma, Yujie Chen, Liang Wang, Xuan Lin, Bosheng Song, Xiangxiang Zeng. "**S2DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33346)
 
-- <a name="SEmPI"></a> **(SEmPI)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="SEmPI"></a> **(SEmPI)** Man Zhu, Pengfei Huang, Lei Gu, Xiaolong Xu, Jingyu Han. "**Representation Learning Based Predicate Invention on Knowledge Graphs**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33468)
 
-- <a name="SPAC"></a> **(SPAC)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="SPAC"></a> **(SPAC)** Chuhong Yang, Bin Li, Nan Wu. "**SPAC: Sparse Partitioning and Adaptive Core Tensor Pruning Model for Knowledge Graph Completion**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33671)
 
-- <a name="TARGI"></a> **(TARGI)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="TARGI"></a> **(TARGI)** Ling Ding, Lei Huang, Zhizhi Yu, Di Jin, Dongxiao He. "**Towards Global-Topology Relation Graph for Inductive Knowledge Graph Completion**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33260)
 
-- <a name="UAG"></a> **(UAG)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="UAG"></a> **(UAG)** Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, Tyler Derr. "**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33353)
 
 - <a name="CustomizE"></a> **(CustomizE)** Zhanpeng Guan, Zhao Zhang, Yiqing Wu, Fuwei Zhang, Yongjun Xu. "**Should We Use a Fixed Embedding Size? Customized Dimension Sizes for Knowledge Graph Embedding**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.604/)
 
