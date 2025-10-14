@@ -121,19 +121,19 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="FULORA"></a> **(FULORA)** Zijian Wang, Bin Wang, Haifeng Jing, Huayu Li, Hongbo Dou. "**Walk Wisely on Graph: Knowledge Graph Reasoning with Dual Agents via Efficient Guidance-Exploration**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33398)
 
-- <a name="KGCRR"></a> **(KGCRR)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="KGCRR"></a> **(KGCRR)** Kuan Xu, Kuo Yang, Jian Liu, Xiangkui Lu, Jun Wu, Xuezhong Zhou. "**KGCRR: An Effective Metric-Driven Knowledge Graph Completion Framework by Designing a Novel Upper Bound Function with Adaptive Approximation to Reciprocal Rank**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33410)
 
-- <a name="LACT"></a> **(LACT)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="LACT"></a> **(LACT)** Tianle Xia, Liang Ding, Guojia Wan, Yibing Zhan, Bo Du, Dacheng Tao. "**Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33405)
 
-- <a name="LightPROF"></a> **(LightPROF)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="LightPROF"></a> **(LightPROF)** Tu Ao, Yanhua Yu, Yuling Wang, Yang Deng, Zirui Guo, Liang Pang, Pinghui Wang, Tat-Seng Chua, Xiao Zhang, Zhen Cai. "**LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/34510)
 
-- <a name="LLM-DR"></a> **(LLM-DR)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="LLM-DR"></a> **(LLM-DR)** Kai Chen, Xin Song, Ye Wang, Liqun Gao, Aiping Li, Xiaojuan Zhao, Bin Zhou, Yalong Xie. "**LLM-DR: A Novel LLM-Aided Diffusion Model for Rule Generation on Temporal Knowledge Graphs**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33249)
 
-- <a name="MCKGC"></a> **(MCKGC)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="MCKGC"></a> **(MCKGC)** Yuxiao Gao, Fuwei Zhang, Zhao Zhang, Xiaoshuang Min, Fuzhen Zhuang. "**Mixed-Curvature Multi-Modal Knowledge Graph Completion**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33273)
 
-- <a name="RAA-KGC"></a> **(RAA-KGC)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="RAA-KGC"></a> **(RAA-KGC)** Duanyang Yuan, Sihang Zhou, Xiaoshu Chen, Dong Wang, Ke Liang, Xinwang Liu, Jian Huang. "**Knowledge Graph Completion with Relation-Aware Anchor Enhancement**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33672)
 
-- <a name="RuleGNN"></a> **(RuleGNN)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="RuleGNN"></a> **(RuleGNN)** Zhe Wang, Suxue Ma, Kewen Wang, Zhiqiang Zhuang. "**Rule-Guided Graph Neural Networks for Explainable Knowledge Graph Reasoning**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33394)
 
 - <a name="S2DN"></a> **(S2DN)** . "****". **`AAAI 2025`**. [paper]()
 
