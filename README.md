@@ -135,7 +135,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="RuleGNN"></a> **(RuleGNN)** Zhe Wang, Suxue Ma, Kewen Wang, Zhiqiang Zhuang. "**Rule-Guided Graph Neural Networks for Explainable Knowledge Graph Reasoning**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33394)
 
-- <a name="S2DN"></a> **(S2DN)** . "****". **`AAAI 2025`**. [paper]()
+- <a name="S2DN"></a> **(S2DN)** Tengfei Ma, Yujie Chen, Liang Wang, Xuan Lin, Bosheng Song, Xiangxiang Zeng. "**S2DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33346)
 
 - <a name="SEmPI"></a> **(SEmPI)** . "****". **`AAAI 2025`**. [paper]()
 
