@@ -145,6 +145,27 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="UAG"></a> **(UAG)** Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, Tyler Derr. "**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**". **`AAAI 2025`**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33353)
 
+- <a name="AnRe"></a> **(AnRe)** Guo Tang, Zheng Chu, Wenxiang Zheng, Junjia Xiang, Yizhuo Li, Weihao Zhang, Ming Liu, Bing Qin. "**AnRe: Analogical Replay for Temporal Knowledge Graph Forecasting**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.231/)
+
+- <a name="DGAR"></a> **(DGAR)** Zhiyu Zhang, Wei Chen, Youfang Lin, Huaiyu Wan. "**A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.537/)
+
+- <a name="DoG"></a> **(DoG)** Kun Li, Tianhua Zhang, Xixin Wu, Hongyin Luo, James R. Glass, Helen M. Meng. "**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.1186/)
+
+- <a name="KG-Agent"></a> **(KG-Agent)** Jinhao Jiang, Kun Zhou, Xin Zhao, Yang Song, Chen Zhu, Hengshu Zhu, Ji-Rong Wen. "**KG-Agent: An Efficient Autonomous Agent Framework for Complex
+Reasoning over Knowledge Graph**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.468/)
+
+- <a name="MED"></a> **(MED)** Yushan Zhu, Wen Zhang, Zhiqiang Liu, Mingyang Chen, Lei Liang, Huajun Chen. "**Croppable Knowledge Graph Embedding**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.579/)
+
+- <a name="MI"></a> **(MI)** Jiang Li, Xiangdong Su, Zehua Duo, Tian Lan, Xiaotao Guo, Guanglai Gao. "**A Mutual Information Perspective on Knowledge Graph Embedding**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.1077/)
+
+- <a name="RSCF"></a> **(RSCF)** Junsik Kim, Jinwook Park, Kangil Kim. "**RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.602/)
+
+- <a name=""></a> **()** . "****". **`ACL 2025`**. [paper]()
+
+- <a name=""></a> **()** . "****". **`ACL 2025`**. [paper]()
+
+
+
 - <a name="CustomizE"></a> **(CustomizE)** Zhanpeng Guan, Zhao Zhang, Yiqing Wu, Fuwei Zhang, Yongjun Xu. "**Should We Use a Fixed Embedding Size? Customized Dimension Sizes for Knowledge Graph Embedding**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.604/)
 
 - <a name="DaBR"></a> **(DaBR)** Weihua Wang, Qiuyu Liang, Feilong Bao, Guanglai Gao. "**Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.284/)
