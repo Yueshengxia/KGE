@@ -160,11 +160,9 @@ Reasoning over Knowledge Graph**". **`ACL 2025`**. [paper](https://aclanthology.
 
 - <a name="RSCF"></a> **(RSCF)** Junsik Kim, Jinwook Park, Kangil Kim. "**RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.602/)
 
-- <a name=""></a> **()** . "****". **`ACL 2025`**. [paper]()
+- <a name="SSQR"></a> **(SSQR)** Qika Lin, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng. "**Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.667/)
 
-- <a name=""></a> **()** . "****". **`ACL 2025`**. [paper]()
-
-
+- <a name="TeRDy"></a> **(TeRDy)** Ziyang Liu, Chaokun Wang. "**TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion**". **`ACL 2025`**. [paper](https://aclanthology.org/2025.acl-long.473/)
 
 - <a name="CustomizE"></a> **(CustomizE)** Zhanpeng Guan, Zhao Zhang, Yiqing Wu, Fuwei Zhang, Yongjun Xu. "**Should We Use a Fixed Embedding Size? Customized Dimension Sizes for Knowledge Graph Embedding**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.604/)
 
@@ -183,6 +181,8 @@ Reasoning over Knowledge Graph**". **`ACL 2025`**. [paper](https://aclanthology.
 - Qiyuan He, Yizhong Wang, Jianfei Yu, Wenya Wang. "**Language Models over Large-Scale Knowledge Base: on Capacity, Flexibility and Reasoning for New Facts**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.118/)
 
 - <a name="RLEE"></a> **(RLEE)** Longzhou Liu, Chenglong Xiao, Shanshan Wang, Tingwen Liu. "**Relation Logical Reasoning and Relation-aware Entity Encoding for Temporal Knowledge Graph Reasoning**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.88/)
+
+- Yang Xiao, Ruimeng Ye, Bo Hui:. "**Knowledge Graph Unlearning with Schema**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.238/)
 
 - <a name="SNAG"></a> **(SNAG)** Zhuo Chen, Yin Fang, Yichi Zhang, Lingbing Guo, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. "**Noise-powered Multi-modal Knowledge Graph Representation Framework**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.11/)
 
