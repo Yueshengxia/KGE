@@ -17,6 +17,18 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ## Papers
 
+### 2026
+
+#### Journal
+
+- <a name="GIRMSF"></a> **(GIRMSF)** Lin Lin, Shiwei Suo, Song Fu, Lizheng Zu, Sihao Zhang, Yikun Liu. "**GIRMSF-global information reconstruction and multi-scale feature sharpening framework for knowledge graph embedding**". **`Expert Systems with Applications 2026`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425025400?via%3Dihub)
+
+- <a name="SuKE"></a> **(SuKE)** Yunhai Ye, Shuo Wang. "**SuKE: Structural Knowledge Extractor enhances large language model for knowledge graph completion**". **`Expert Systems with Applications 2026`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425028155?via%3Dihub)
+
+- <a name="RSPED"></a> **(RSPED)** Rushan Geng, Cuicui Luo. "**Exploring relevant snapshots and neighboring entities for temporal knowledge graph reasoning**". **`Information Processing and Management 2026`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457325003188?via%3Dihub)
+
+- <a name="ReHGD"></a> **(ReHGD)** Jibing Gong, Yuting Lin, Yi Zhao, Tianyu Lin, Xiaohan Fang, Xinchao Feng, Jiquan Peng. "**Reinforced Heterogeneous Graphlet Design for Knowledge Graph Representation Learning**". **`Information Sciences 2026`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025525008035?via%3Dihub)
+
 ### 2025
 
 #### Journal
@@ -55,15 +67,71 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="SFP"></a> **(SFP)** Jingbin Wang, Xifan Ke, Fufuan Zhang, Yuwei Wu, Sirui Zhang, Kun Guo. "**SFP: temporal knowledge graph completion based on sequence-focus patterns representation learning**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06306-7)
 
+- Linlan Liu, Weide Huang, Jian Shu, Hongjian Zhao. "**Knowledge graph relation prediction based on graph transformation**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-024-06080-y)
+
+- Hao Liu, Dong Li, Bing Zeng, Yang Xu. "**Learning discriminative features for multi-hop knowledge graph reasoning**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06327-2)
+
+- <a name="MANNER"></a> **(MANNER)** Shensi Wang, Kun Fu, Xian Sun, Zequn Zhang, Li Jin, Yuying Shang, Shiyao Yan. "**How to learn new knowledge: a multimodal contrastive learning framework for open-world knowledge graph completion**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06642-8)
+
+- <a name="MRCCA"></a> **(MRCCA)** Sifan Cao, Xiaodong Li, Zhaozhe Gong, Fengjun Xiao, Jing Chen, Zhengsheng Yu. "**Multiple concepts and cross-attention based knowledge graph completion**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06727-4)
+
+- <a name="SimRMKGC"></a> **(SimRMKGC)** Xiaohan Fang, Qian Zang, Jibing Gong, Tao Fang, Yili Xu, Xi Wu:. "**SimRMKGC: Simple relational contrastive learning on multilingual knowledge graph completion**". **`Applied Intelligence 2025`**. [paper](https://link.springer.com/article/10.1007/s10489-025-06782-x)
+
+- <a name="CoAE-GCN"></a> **(CoAE-GCN)** Dong Zhang, Wenhao Li, Tianbo Qiu, Guanyu Li. "**Co-occurrence Graph Convolutional Networks with Approximate Entailment for knowledge graph embedding**". **`Applied Soft Computing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494624014406?via%3Dihub)
+
+- <a name="DMGNN"></a> **(DMGNN)** Bingbing Dong, Chenyang Bu, Ye Wang, Yi Zhu, Xindong Wu. "**Disentangled Multi-view Graph Neural Network for multilingual knowledge graph completion**". **`Applied Soft Computing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494625009160?via%3Dihub)
+
+- <a name="JointDE"></a> **(JointDE)** Mingsheng He, Lin Zhu, Luyi Bai. "**Jointly leveraging 1D and 2D convolution on diachronic entity embedding for temporal knowledge graph completion**". **`Applied Soft Computing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494625004557?via%3Dihub)
+
 - <a name="KGCD"></a> **(KGCD)** Wenlong Hou, Weidong Zhao, Ning Jia, Xianhui Liu. "**Low-resource knowledge graph completion based on knowledge distillation driven by large language models**". **`Applied Soft Computing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494624013966?via%3Dihub)
+
+- <a name="RP-KGC"></a> **(RP-KGC)** Wenying Guo, Shengdong Du, Jie Hu, Fei Teng, Yan Yang, Tianrui Li. "**RP-KGC: A Knowledge Graph Completion Model Integrating Rule-Based Knowledge for Pretraining and Inference**". **`Big Data Mining and Analytics 2025`**. [paper](https://ieeexplore.ieee.org/document/10807340)
+
+- <a name="TRenD"></a> **(TRenD)** Ye Wang, Binxing Fang, Shuxian Huang, Kai Chen, Yan Jia, Aiping Li. "**Extrapolation Reasoning on Temporal Knowledge Graphs via Temporal Dependencies Learning**". **`CAAI Transactions on Intelligence Technology 2025`**. [paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.70013)
+
+- <a name="SecKG2vec"></a> **(SecKG2vec)** Xiaojian Liu, Xinwei Guo, Wen Gu. "**SecKG2vec: A novel security knowledge graph relational reasoning method based on semantic and structural fusion embedding**". **`Computers & Security 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167404824004978?via%3Dihub)
+
+- <a name="C-KGE"></a> **(C-KGE)** Diange Zhou, Shengwen Li, Lijun Dong, Renyao Chen, Xiaoyue Peng, Hong Yao. "**C-KGE: Curriculum learning-based Knowledge Graph Embedding**". **`Computer Speech & Language 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S088523082400072X?via%3Dihub)
+
+- <a name="Diabetes-KG"></a> **(Diabetes-KG)** Sushmita Singh, Manvi Siwach. "**Evaluating diabetes dataset for knowledge graph embedding based link prediction**". **`Data & Knowledge Engineering 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0169023X25000096?via%3Dihub)
+
+- <a name="AMC"></a> **(AMC)** Jie Peng, Yongxue Shan, Yongfu Zha, Xiaodong Wang. "**Adaptive multimodal graph learning for knowledge graph completion**". **`Data Mining and Knowledge Discovery 2025`**. [paper](https://link.springer.com/article/10.1007/s10618-025-01139-x)
 
 - <a name="ARL"></a> **(ARL)** Nan Xia, Yin Wang, Run-Fa Zhang, Xiangfeng Luo. "**ARL: analogical reinforcement learning for knowledge graph reasoning**". **`Data Mining and Knowledge Discovery 2025`**. [paper](https://link.springer.com/article/10.1007/s10618-024-01080-5)
 
+- <a name="AutoTransW"></a> **(AutoTransW)** Man Yuan, Licheng Xing, Jingshu Yuan, Kexin Zhai. "**Knowledge graph completion based on asymmetric translation and automatic entity type representation**". **`Data Mining and Knowledge Discovery 2025`**. [paper](https://link.springer.com/article/10.1007/s10618-025-01105-7)
+
+- <a name="HyEED"></a> **(HyEED)** Liming Bao, Yan Wang, Xiaoyu Song. "**HyEED: embedding learning of knowledge graphs with entity description in hyperbolic space**". **`Data Mining and Knowledge Discovery 2025`**. [paper](https://link.springer.com/article/10.1007/s10618-025-01100-y)
+
+- <a name="FST"></a> **(FST)** Xiaowen Zhang, Li Yan, Beijing Zhou, Zongmin Ma. "**Correcting update anomalies in spatiotemporal knowledge graphs with uncertainties**". **`Engineering Applications of Artificial Intelligence 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625018007?via%3Dihub)
+
 - <a name="FTPComplEx"></a> **(FTPComplEx)** Ngoc-Trung Nguyen, Thuc Ngo, Nguyen Hoang, Thanh Le. "**FTPComplEx: A flexible time perspective approach to temporal knowledge graph completion**". **`Engineering Applications of Artificial Intelligence 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095219762401875X?via%3Dihub)
 
-- <a name="CDRL"></a> **(CDRL)** Yan Xiang, Hongguang He, Zhengtao Yu, Yuxin Huang. "**Concept-driven representation learning model for knowledge graph completion**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424031646?via%3Dihub)
+- <a name="TTMNM"></a> **(TTMNM)** Geng Zhang, Yu-Jie Xiong, Jianpeng Hu, Chun-Ming Xia. "**Triplet trustworthiness validation with knowledge graph reasoning**". **`Engineering Applications of Artificial Intelligence 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624019729?via%3Dihub)
+
+- <a name="CDRL"></a> **(CDRL)** Yan Xiang, Hongguang He, Zhengtao Yu, Yuxin Huang. "**Concept-driven representation learning model for knowledge graph completion**". **Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424031646?via%3Dihub)
+
+- <a name="CMHE-NET"></a> **(CMHE-NET)** Mingsheng He, Lin Zhu, Luyi Bai. "**Learning entity-query dependency and query classification for temporal knowledge graph prediction**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425016379?via%3Dihub)
+
+- <a name="EKGC"></a> **(EKGC)** Tri D. T. Nguyen, Ubaid Ur Rehman, Musarrat Hussain, Rao Faizan, Jamil Hussain, Sung-Ho Bae, Jung Uk Kim, Seong Tae Kim, Sungyoung Lee. "**Unified link prediction modeling for enhanced knowledge graph completion task**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425009789)
+
+- <a name="ERGAT"></a> **(ERGAT)** Zhanyue Cao, Chao Luo. "**Link prediction for knowledge graphs based on extended relational graph attention networks**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424021274)
+
+- <a name="FL-Evo"></a> **(FL-Evo)** Ruishen Liu, Xinzhi Wang, Shaorong Xie, Xiangfeng Luo, Huizhe Su. "**FL-Evo: Jointly modeling fact and logic evolution patterns for temporal knowledge graph reasoning**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425017026)
 
 - <a name="HNOT"></a> **(HNOT)** Ruixin Ma, Longfei Wang, Huinan Wu, Buyun Gao, Xiaoru Wang, Liang Zhao. "**Historical Trends and Normalizing Flow for One-shot Temporal Knowledge Graph Reasoning**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424022334?via%3Dihub)
+
+- <a name="HyperSAT"></a> **(HyperSAT)** Junjie Wang, Huajun Chen, Wen Zhang. "**Structure-Aware Transformer for hyper-relational knowledge graph completion**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425006141)
+
+- <a name="ICA"></a> **(ICA)** Jinwang Wu, Yuanjun Laili, Chengwen Qi, Zhuoqun Li, Lei Ren. "**Interleaving and cross-attention presents efficient knowledge graph embedding**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425005524)
+
+- <a name="KOGAL"></a> **(KOGAL)** Warith Eddine Djeddi, Sadok Ben Yahia, Engelbert Mephu Nguifo. "**A degree centrality-enhanced computational approach for local network alignment leveraging knowledge graph embeddings**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742500377X)
+
+- Ryan Ong, Jiahao Sun, Yi-Ke Guo, Ovidiu Serban. "**Dynamic link prediction: Using language models and graph structures for temporal knowledge graph completion with emerging entities and relations**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425002702)
+
+- <a name="M2KGRL"></a> **(M2KGRL)** Tao Chen, Tiexin Wang, Huihui Zhang, Jianqiu Xu. "**M2KGRL: A semantic-matching based framework for multimodal knowledge graph representation learning**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425000107)
+
+- <a name="MASKGR"></a> **(MASKGR)** Yiyang Liu, Lejun Fu, Yukai Fu, Tianxing Wu, Hongfei Bai. "**Multi-hop reasoning over sparse knowledge graphs with deep reinforcement learning**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425019086)
 
 - <a name="MCSC"></a> **(MCSC)** Haichuan Fang, Kexin Cheng, Ruixin Zhang, Youwei Wang, Yangdong Ye. "**Meta-collaboration-based semantic contrast for inductive knowledge representation learning**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424022887?via%3Dihub)
 
@@ -71,11 +139,33 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="PDKGC"></a> **(PDKGC)** Yuxia Geng, Jiaoyan Chen, Yuhang Zeng, Zhuo Chen, Wen Zhang, Jeff Z. Pan, Yuxiang Wang, Xiaoliang Xu. "**Prompting disentangled embeddings for knowledge graph completion with pre-trained language model**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424030422?via%3Dihub)
 
-- Zhanyue Cao, Chao Luo. "**Link prediction for knowledge graphs based on extended relational graph attention networks**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424021274?via%3Dihub)
+- <a name="SIBR"></a> **(SIBR)** Kai Chen, Han Yu, Ye Wang, Xin Song, Xiaojuan Zhao, Yalong Xie, Liqun Gao, Aiping Li. "**Temporal knowledge graph extrapolation with subgraph information bottleneck**". **`Expert Systems With Applications 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424030938)
+
+- <a name="CENET"></a> **(CENET)** Yi Xu, Luoyi Fu, Xinbing Wang. "**Rethinking temporal knowledge graph extrapolation: prioritizing historical events over graph**". **`Frontiers of Computer Science 2025`**. [paper](https://link.springer.com/article/10.1007/s11704-025-41334-z)
+
+- <a name="LR-GCN"></a> **(LR-GCN)** Tao He, Ming Liu, Yixin Cao, Zekun Wang, Zihao Zheng, Bing Qin. "**Exploring & exploiting high-order graph structure for sparse knowledge graph completion**". **`Frontiers of Computer Science 2025`**. [paper](https://link.springer.com/article/10.1007/s11704-023-3521-y)
+
+- <a name="SM-GNN"></a> **(SM-GNN)** Bingbing Dong, Chenyang Bu, Yi Zhu, Shengwei Ji, Xindong Wu. "**Simplified multi-view graph neural network for multilingual knowledge graph completion**". **`Frontiers of Computer Science 2025`**. [paper](https://link.springer.com/article/10.1007/s11704-024-3577-3)
+
+- <a name="FM-CTRL"></a> **(FM-CTRL)** Qing Li, Guanzhong Wu. "**Coherent temporal logical reasoning via fusing multi-faced information for link forecasting over temporal knowledge graphs**". **`Information Fusion 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S156625352500301X)
+
+- <a name="GS-KGC"></a> **(GS-KGC)** Rui Yang, Jiahao Zhu, Jianping Man, Hongze Liu, Li Fang, Yi Zhou. "**GS-KGC: A generative subgraph-based framework for knowledge graph completion with large language models**". **`Information Fusion 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524006468)
 
 - <a name="Nari"></a> **(Nari)** Huang Peng, Weixin Zeng, Jiuyang Tang, Mao Wang, Hongbin Huang, Xiang Zhao. "**Open knowledge graph completion with negative-aware representation learning and multi-source reliability inference**". **`Information Fusion 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524005074?via%3Dihub)
 
+- <a name="RSRule"></a> **(RSRule)** Kai Chen, Xiaojuan Zhao, Xin Song, Ye Wang, Zhibin Dong, Feng Xie, Aiping Li, Yue Han, Changjian Li. "**RSRule: Relation-level semantic-driven rule learning for explainable extrapolation on temporal knowledge graphs**". **`Information Fusion 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525001538)
+
+- <a name="Scene-GCN"></a> **(Scene-GCN)** Weihao Li, Yufeng He, Lizhi Tao, Jifa Chen, Xing Wang, Yong Ge, Hui Lin. "**Scene-GCN: a time-series prediction method in complex monitoring environments through spatial–temporal knowledge graph (ST-KG)**". **`International Journal of Geographical Information Science 2025`**. [paper](https://www.tandfonline.com/doi/abs/10.1080/13658816.2025.2479183)
+
+- <a name="CRGCN"></a> **(CRGCN)** Hongzhi Chen, Fu Zhang, Qinghui Li, Xiang Li, Yifan Ding, Daqing Zhang, Jingwei Cheng, Xing Wang. "**Triple confidence‑aware encoder–decoder model for commonsense knowledge graph completion**". **`International Journal of Machine Learning and Cybernetics 2025`**. [paper](https://link.springer.com/article/10.1007/s13042-024-02378-y)
+
 - <a name="CALQR"></a> **(CALQR)** Pengwei Pan, Jingpei Lei, Jiaan Wang, Dantong Ouyang, Jianfeng Qu, Zhixu Li. "**Concept-aware embedding for logical query reasoning over knowledge graphs**". **`Information Processing and Management 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324003303?via%3Dihub)
+
+- <a name="HFL"></a> **(HFL)** Wenjie Xu, Ben Liu, Miao Peng, Zihao Jiang, Xu Jia, Kai Liu, Lei Liu, Min Peng. "**Historical facts learning from Long-Short Terms with Language Model for Temporal Knowledge Graph Reasoning**". **`Information Processing and Management 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324004060)
+
+- <a name="MCCI"></a> **(MCCI)** Xiquan Zhang, Jianwu Dang, Yangping Wang, Shuyang Li. "**MCCI: A multi-channel collaborative interaction framework for multimodal knowledge graph completion**". **`Information Processing and Management 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457325000974)
+
+- <a name="SARL"></a> **(SARL)** Kang Xu, Miqi Chen, Yifan Feng, Zhenjiang Dong. "**Advancing rule learning in knowledge graphs with structure-aware graph transformer**". **`Information Processing and Management 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324003352)
 
 - <a name="STTP-RGN"></a> **(STTP-RGN)** Xiaobei Xu, Ruizhe Ma, Beijing Zhou, Li Yan, Zongmin Ma. "**Spatial and temporal twin-guided pattern recurrent graph network for implementing reasoning of spatiotemporal knowledge graph**". **`Information Processing and Management 2025`**. [paper](https://www.sciencedirect.com/science/article/pii/S0306457324003017?via%3Dihub)
 
@@ -91,21 +181,197 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="HIGSM"></a> **(HIGSM)** Yuejia Wu, Jian-tao Zhou. "**A hierarchical and interlamination graph self-attention mechanism-based knowledge graph reasoning architecture**". **`Information Sciences 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524012593?via%3Dihub)
 
+- <a name="IndiQ"></a> **(IndiQ)** Linhua Dong, Xiaofei Zhou, Bo Wang, Qiannan Zhu, Fan Meng. "**Temporal knowledge graph link predictions with query-guided temporal representation learning**". **`Information Sciences 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025525001677)
+
+- <a name="LOSA"></a> **(LOSA)** Hao Wang, Dandan Song, Zhijing Wu, Yuhang Tian, Jing Xu. "**Look one step ahead through first-order aggregation in reinforcement learning-based knowledge graph reasoning**". **`Information Sciences 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025525005055)
+
+- <a name="SAIKG"></a> **(SAIKG)** Yuehang Si, Xingchen Hu, Qing Cheng, Xinwang Liu, Shixuan Liu, Jincai Huang. "**Coherence mode: Characterizing local graph structural information for temporal knowledge graph**". **`Information Sciences 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025524012714)
+
+- <a name="DynTKG"></a> **(DynTKG)** Qian Liu, Siling Feng, Mengxing Huang. "**Dynamic subgraph pruning and causal-aware knowledge distillation for temporal knowledge graphs**". **`Journal of King Saud University Computer and Information Sciences 2025`**. [paper](https://link.springer.com/article/10.1007/s44443-025-00105-3)
+
+- <a name="NAAER"></a> **(NAAER)** Jinglin Zhang, Bo Shen. "**Knowledge graph completion based on iteratively learning embeddings and noise-aware rules**". **`Journal of King Saud University Computer and Information Sciences 2025`**. [paper](https://link.springer.com/article/10.1007/s44443-025-00148-6)
+
+- <a name="ChoicE"></a> **(ChoicE)** Yifan Xue, Shuoyan Ren, Wanqiang Cai, Yingyao Ma, Lotfi Senhadji, Huazhong Shu, Jiasong Wu. "**Make your choice for multimodal knowledge graph completion**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125007968)
+
 - <a name="CPE"></a> **(CPE)** Chen Liu, Zihan Wei, Lixin Zhou. "**Contrastive Predictive Embedding for learning and inference in knowledge graph**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124013649?via%3Dihub)
+
+- <a name="CRTL"></a> **(CRTL)** Yuxuan Lu, Guojie Ma, Shiyu Yang, Junxiao Wang. "**Enhancing inductive knowledge graph completion with contextual relation topology learning**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013437)
+
+- <a name="CZRL"></a> **(CZRL)** Zhiyi Fang, Hang Yu, Changhua Xu, Zhuofeng Li, Jie Ying, Shaorong Xie. "**Contrastive zero-shot relational learning for knowledge graph completion**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004721)
+
+- <a name="DHRL4HKG"></a> **(DHRL4HKG)** Jiecheng Li, Xudong Luo, Guangquan Lu, Shichao Shang. "**DHRL4HKG: A Dual-Hypergraph Representation Learning for Hyper-Relational Knowledge Graphs**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125009323)
+
+- <a name="DSEP"></a> **(DSEP)** Yunteng Deng, Jia Song, Zhongliang Yang, Yilin Long, Li Zeng, Linna Zhou. "**Diachronic semantic encoding based on pre-trained language model for temporal knowledge graph reasoning**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005258)
+
+- <a name="DV-TKR"></a> **(DV-TKR)** Wei Chen, Yuting Wu, Shengnan Guo, Shuhan Wu, Zhishu Jiang, Youfang Lin, Huaiyu Wan. "**Dual-view temporal knowledge graph reasoning**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013693)
+
+- <a name="ERD-Net"></a> **(ERD-Net)** Longquan Liao, Linjiang Zheng, Fengwen Chen, Jiaxing Shang, Xu Li, Wengang Li. "**ERD-Net: Modeling entity and relation dynamics for Temporal Knowledge Graph reasoning**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004514)
+
+- <a name="EV-COT"></a> **(EV-COT)** Zhangtao Cheng, Shichong Li, Yichen Xin, Bin Chen, Ting Zhong, Fan Zhou. "**Precision through progression: Empowering temporal knowledge graph reasoning with knowledge-guided chain of thought**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501487X)
+
+- <a name="FAME"></a> **(FAME)** Xingyue Guo, Ying Zhang, Yu Zhao, Baohang Zhou, Xuhui Sui, Xinying Qian, Xiaojie Yuan. "**Few-shot temporal knowledge graph completion based on query-adaptive Mamba-enhanced temporal relation learning**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125014339)
+
+- <a name="FedComp"></a> **(FedComp)** Zihao Zheng, Borui Cai, Yong Xiang, Yao Zhao, Md. Palash Uddin, Keshav Sood. "**A federated compositional knowledge graph embedding for communication efficiency**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705125009190)
+
+- <a name="FedS"></a> **(FedS)** Xiaoxiong Zhang, Zhiwei Zeng, Xin Zhou, Dusit Niyato, Zhiqi Shen. "**Communication-efficient federated knowledge graph embedding with entity-wise top-K sparsification**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125011888)
+
+- <a name="GTM"></a> **(GTM)** Ziqi Ma, Jinpeng Li, Hang Yu. "**Provide explainable clues: A generative traceable method for knowledge graph completion**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125014650)
+
+- <a name="HGCT"></a> **(HGCT)** Hoa Dao, Nguyen Phan, Ngoc-Thanh Le, Ngoc-Trung Nguyen. "**HGCT: Enhancing temporal knowledge graph reasoning through extrapolated historical fact extraction**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125004058)
+
+- <a name="HSAE"></a> **(HSAE)** Yifan Xue, Wanqiang Cai, Yingyao Ma, Lotfi Senhadji, Huazhong Shu, Jiasong Wu. "**HSAE: Hierarchical structure augment embedding for various knowledge graph completion**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013607)
 
 - <a name="HyperGatE"></a> **(HyperGatE)** Yan Fang, Xiaodong Liu, Wei Lu, Witold Pedrycz, Qi Lang, Jianhua Yang. "**Knowledge graph completion with low-dimensional gated hierarchical hyperbolic embedding**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124014382?via%3Dihub)
 
+- <a name="IF-NS"></a> **(IF-NS)** Ming Cai, Zhuolin Deng, Chen Xiong. "**IF-NS: A New negative sampling framework for knowledge graph embedding using influence function**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125003053)
+
+- <a name="KA-RBF"></a> **(KA-RBF)** Enqiang Wang, Jin Liu, Xiao Liu, Bo Huang, Xu Huang. "**Knowledge attention via radial basis functions for temporal knowledge graphs completion**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013759)
+
+- <a name="KERMIT"></a> **(KERMIT)** Haotian Li, Bin Yu, Yuliang Wei, Kai Wang, Richard Yi Da Xu, Bailing Wang. "**KERMIT: Knowledge graph completion of enhanced relation modeling with inverse transformation**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005465)
+
+- <a name="LEKGQE"></a> **(LEKGQE)** Bin Chen, Hongyi Li, Di Zhao, Chengwei Pan. "**A lightweight embedding method for knowledge graph quality evaluation**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705125010585)
+
+- <a name="MDRQS"></a> **(MDRQS)** Jun Zhu, Jiahui Hu, Di Bai, Yan Fu, Junlin Zhou, Duanbing Chen. "**Multi-dimension rotations based on quaternion system for modeling various patterns in temporal knowledge graphs**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001613)
+
+- <a name="MESN"></a> **(MESN)** Ban Tran, Thanh Le. "**MESN: A multimodal knowledge graph embedding framework with expert fusion and relational attention**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005878)
+
+- <a name="MHRN"></a> **(MHRN)** Zengcan Xue, Zhaoli Zhang, Hai Liu, Zhifei Li, Shuyun Han, Erqi Zhang. "**MHRN: A multi-perspective hierarchical relation network for knowledge graph embedding**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125000875)
+
+- <a name="MKFTracker"></a> **(MKFTracker)** Fangfang Li, Weidai Xia, Dongming Zhou, Jinde Cao. "**MKFTracker: An RGBT tracker via multimodal knowledge embedding and feature interaction**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124014941)
+
+- <a name="MPST"></a> **(MPST)** Song Li, Guantong Chen, Liping Zhang, Haipeng Jin, Guanglu Sun. "**A multi-perspective knowledge graph embedding model fusing structural features and textual descriptions of entities**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501370X)
+
+- <a name="NFGN"></a> **(NFGN)** Xu Yuan, Long Chen, Jiaqiang Wang, Yi Guo, Zhengnan Gao, Liang Zhao. "**Normalizing flow-enhanced Gaussian embedding for few-shot knowledge graph completion**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125009207)
+
+- <a name="PreKGR"></a> **(PreKGR)** Congcong Sun, Jianrui Chen, Deguang Chen, Junjie Huang. "**Potential subgraph rule and reasoning context enhancement for sparse multi-hop knowledge graph reasoning**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125015229)
+
+- <a name="STCKGE"></a> **(STCKGE)** Xinyan Wang, Jinshuo Liu, Kaijian Xie, Meng Wang, Cheng Bi, Juan Deng, Donghong Ji, Jeff Z. Pan. "**STCKGE: Continual knowledge graph embedding based on spatial transformation**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013760)
+
+- <a name="STSE"></a> **(STSE)** Xiaoyu Ji, Yibing Cao, Jiangshui Zhang, Xinke Zhao. "**STSE: Spatio-temporal state embedding for knowledge graph completion**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705125005167)
+
+- <a name="TCrossE"></a> **(TCrossE)** Thanh Vu, Thanh Le. "**TCrossE: Cross-space interaction of bicomplex and quaternion embeddings for temporal knowledge graph completion**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125003685)
+
+- <a name="TGA-Path"></a> **(TGA-Path)** Luyi Bai, Qianwen Xiao, Lin Zhu. "**Multi-hop path reasoning of temporal knowledge graphs based on generative adversarial imitation learning**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512500468X)
+
+- Luyi Bai, Tongyue Zhang, Lin Zhu. "**Temporal knowledge graph forecasting query based on global-local historical information**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125015151)
+
+- Wenjie Liu, Zhijie Ren, Liang Chen. "**Knowledge reasoning based on graph neural networks with multi-layer top-p message passing and sparse negative sampling**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705125001108)
+
+- <a name="TV-LLM"></a> **(TV-LLM)** Qihong Pan, Limin Yao, Guojiang Shen, Xiao Han, Yichuan Chen, Xiangjie Kong. "**Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125011396)
+
+- <a name="VANILLA"></a> **(VANILLA)** Disha Purohit, Yashrajsinh Chudasama, Maria-Esther Vidal. "**VANILLA: Validated knowledge graph completion—A Normalization-based framework for Integrity, Link prediction, and Logical Accuracy**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705125009840)
+
+- <a name="WaExt"></a> **(WaExt)** Wei Kun Kong, Xin Liu, Teeradaj Racharak, Guanqun Sun, Qiang Ma, Le-Minh Nguyen. "**Weight-aware tasks for evaluating knowledge graph embeddings**". **`Knowledge-Based Systems 2025`**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705125006422)
+
+- <a name="ALPPA"></a> **(ALPPA)** Songsong Liu, Xiao Song, Yong Li, Kaiqi Gong, Yuchun Tu. "**ALPPA: An accuracy-lossless and privacy-preserving aggregation strategy for federated knowledge graph completion model**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003650)
+
+- Xi Yang, Jia Zhu. "**Large language model with iteratively prompt for temporal knowledge graph completion**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225016133)
+
 - <a name="DSGNet"></a> **(DSGNet)** Zhifei Li, Wei Huang, Xuchao Gong, Xiangyu Luo, Kui Xiao, Honglian Deng, Miao Zhang, Yan Zhang. "**Decoupled semantic graph neural network for knowledge graph embedding**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224013857?via%3Dihub)
+
+- <a name="EHE"></a> **(EHE)** Qien Yu, Danilo Vasconcellos Vargas. "**Knowledge graph embedding based on embedding permutation and high-frequency feature fusion for link prediction**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004151)
+
+- <a name="EiCoM"></a> **(EiCoM)** Lianhong Ding, Mengxiao Li, Peng Shi, Juntao Li, Ruiping Yuan. "**EiCoM: Multi-modal knowledge graph completion with enhanced information completeness**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225016121)
+
+- <a name="LDM-KGC"></a> **(LDM-KGC)** Chaoqun Zhang, Bingjie Qiu, Weidong Tang, Bicheng Liang, Danyang Cui, Haisheng Luo, Qiming Chen. "**LDM-KGC: A low-dimensional knowledge graph completion model based on multi-head attention mechanism**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225013372)
+
+- <a name="LGKGR"></a> **(LGKGR)** Yuanming Zhang, Wenbo Zheng, Jiacheng Huang, Gang Xiao. "**LGKGR: A knowledge graph reasoning model using LLMs augmented GNNs**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225005910)
 
 - <a name="MHEC"></a> **(MHEC)** Ruixin Ma, Buyun Gao, Weihe Wang, Longfei Wang, Xiaoru Wang, Liang Zhao. "**MHEC: One-shot relational learning of knowledge graphs completion based on multi-hop information enhancement**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224015315?via%3Dihub)
 
+- <a name="MHGTN"></a> **(MHGTN)** Fan Lili, Jiabin Yuan, Zhiguang Fan. "**MHGTN: Multi-Interaction Heterogeneous Graph Transformer Network for Knowledge Graph Completion**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225000402)
+
+- <a name="RLPR"></a> **(RLPR)** Yingping Su, Jianjun Cao, Dechang Pi. "**Temporal knowledge graph multi-hop path reasoning method based on reinforcement learning**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225017394)
+
+- <a name="SCR"></a> **(SCR)** Ridong Han, Jia Liu, Haijia Bi, Tao Peng, Lu Liu. "**SCR: A completion-then-reasoning framework for multi-hop question answering over incomplete knowledge graph**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225016996)
+
+- <a name="SEMKR"></a> **(SEMKR)** Pengjie Liu, Wang Zhang, Yulong Ding, Jie Jiang, Shuang-Hua Yang. "**SEMKR: Joint learning of semantic and topological representations for Knowledge Graph Completion**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015814)
+
+- <a name="STPI"></a> **(STPI)** Jiahui Hu, Luyi Bai, Xuemeng Shang, Guangchen Feng, Yang Gao. "**Sparse temporal knowledge graph completion based on path imitation**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225001456)
+
+- <a name="TTComE"></a> **(TTComE)** Wenhao Li, Dong Zhang, Guanyu Li, Yingqi Zou. "**Time-enhanced compound geometric operations for temporal knowledge graph embedding**". **`Neurocomputing 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225018545)
+
+- <a name="CKGE"></a> **(CKGE)** Qi Zhang, Shicheng Wang, Lihong Wang, Jiawei Sheng, Shu Guo, Chen Li, Min He, Renqiang Zhang. "**A novel coarse-grained knowledge graph embedding framework for platform risk identification from relational data**". **`Neurocomputing 2025`**. [paper](https://link.springer.com/article/10.1007/s00521-025-11127-3)
+
+- <a name="AFME"></a> **(AFME)** Zenglong Wang, Xuan Liu, Zheng Liu, Yu Weng, Chaomurilige. "**A link prediction method for multi-modal knowledge graphs based on Adaptive Fusion and Modality Information Enhancement**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/pii/S0893608025006513)
+
+- <a name="DV4KGR"></a> **(DV4KGR)** Congcong Sun, Jianrui Chen, Zhongshi Shao, Junjie Huang. "**Dual view graph transformer networks for multi-hop knowledge graph reasoning**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802500139X)
+
+- <a name="EDSU"></a> **(EDSU)** Chao Liu, Sam Kwong, Xizhao Wang. "**Uncertainty modeling for inductive knowledge graph embedding**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010323)
+
+- <a name="ER-TQR"></a> **(ER-TQR)** Luyi Bai, Jixuan Dong, Lin Zhu:. "**Entity replacement strategy for temporal knowledge graph query relaxation**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004599)
+
 - <a name="FTMI"></a> **(FTMI)** Luyi Bai, Shuo Han, Lin Zhu. "**Multi-hop interpretable meta learning for few-shot temporal knowledge graph completion**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024009109?via%3Dihub)
+
+- <a name="HPNet"></a> **(HPNet)** Yuling Li, Kui Yu, Fei Yang, Chunfeng Shen, Ji Chang, Zerui Li, Kang Liu. "**Hierarchical feature-guided prototypical network for few-shot knowledge graph completion**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005829)
+
+- <a name="LogiRL"></a> **(LogiRL)** Tingxuan Chen, Liu Yang, Zidong Wang, Jun Long. "**A rule- and query-guided reinforcement learning for extrapolation reasoning in temporal knowledge graphs**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025000656)
+
+- <a name="PHGCN"></a> **(PHGCN)** Dong Zhang, Haoqian Jiang, Xiaoning Li, Guanyu Li, Bo Ning, Heng Chen. "**Pair-wise or high-order? A self-adaptive graph framework for knowledge graph embedding**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003739)
+
+- <a name="ReranKGC"></a> **(ReranKGC)** Meng Gao, Yutao Xie, Wei Chen, Feng Zhang, Fei Ding, Tengjiao Wang, Jiahui Yao, Jiabin Zheng, Kam-Fai Wong. "**ReranKGC: A cooperative retrieve-and-rerank framework for multi-modal knowledge graph completion**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003466)
+
+- <a name="SI-AMN"></a> **(SI-AMN)** Fan Guo, Xiangmao Chang, Yunqi Guo, Guoliang Xing, Yunlong Zhao. "**Semantic information-based attention mapping network for few-shot knowledge graph completion**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802500245X)
+
+- <a name="TMMLP"></a> **(TMMLP)** Yuandi Li, Hui Ji, Fei Yu, Lechao Cheng, Nan Che. "**Temporal multi-modal knowledge graph generation for link prediction**". **`Neural Networks 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024010372)
+
+- <a name="UKGEBN"></a> **(UKGEBN)** Shihan Yang, Liannan Lin, Chunjiang Liu, Mingkai Zhang, Haiyi Yang. "**Prediction of Implicit Relationships Using Uncertain Knowledge Graph Embedding and Bayesian Networks**". **`Neural Processing Letters 2025`**. [paper](https://link.springer.com/article/10.1007/s11063-025-11794-2)
+
+- <a name="NSETNet"></a> **(NSETNet)** Jinchuan Zhang, Bei Hui, Xunyang Zhu, Ling Tian, Fujun Hua. "**Temporal knowledge graph reasoning based on discriminative neighboring semantic learning**". **`Pattern Recognition 2025`**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325000524)
+
+- <a name="RE-SEGNN"></a> **(RE-SEGNN)** Wenyu Cai, Mengfan Li, Xuanhua Shi, Yuanxin Fan, Quntao Zhu, Hai Jin. "**RE-SEGNN: recurrent semantic evidence-aware graph neural network for temporal knowledge graph forecasting**". **`Science China-Information Sciences 2025`**. [paper](https://link.springer.com/article/10.1007/s11432-023-4073-y)
+
+- <a name="DuAK"></a> **(DuAK)** Yufei Zhang, Hongwei Wang, Weiming Shen, Gongzhuang Peng. "**DuAK: Reinforcement Learning-Based Knowledge Graph Reasoning for Steel Surface Defect Detection**". **`IEEE Transactions on Automation Science and Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10247201)
+
+- <a name="HDLH"></a> **(HDLH)** Yi Xia, Gang Zhou, Junyong Luo, Mingjing Lan, Ningbo Huang. "**How to Decide Like Human? A Commonsense-Aware Hierarchical Framework for Knowledge Graph Reasoning**". **`IEEE Transactions on Big Data 2025`**. [paper](https://ieeexplore.ieee.org/document/10896814)
+
+- <a name="HyperPath"></a> **(HyperPath)** Zikang Wang, Linjing Li, Daniel Dajun Zeng. "**Symbolic Knowledge Reasoning on Hyper-Relational Knowledge Graphs**". **`IEEE Transactions on Big Data 2025`**. [paper](https://ieeexplore.ieee.org/document/10587109)
+
+- <a name="MUNGE"></a> **(MUNGE)** Cheng Yan, Feng Zhao, Xiaohui Tao, Xiaofeng Zhu. "**Multi-View Few-Shot Reasoning for Emerging Entities in Knowledge Graphs**". **`IEEE Transactions on Big Data 2025`**. [paper](https://ieeexplore.ieee.org/document/10663958)
+
+- Yao Liu, Yongfei Zhang. "**Relational Clustering-Based Parallel Spaces Construction and Embedding for Dynamic Knowledge Graph**". **`IEEE Transactions on Big Data 2025`**. [paper](https://ieeexplore.ieee.org/document/10833775)
+
+- <a name="TCLQ"></a> **(TCLQ)** Luyi Bai, Linshuo Xu, Lin Zhu. "**Attention-Based Complex Logical Query on Temporal Knowledge Graph via Graph Neural Network**". **`IEEE Transactions on Big Data 2025`**. [paper](https://ieeexplore.ieee.org/document/10740050)
+
+- <a name="MKGE-MDI"></a> **(MKGE-MDI)** Yuan Liang. "**Multimodal Knowledge Graph Embedding With Missing Data Integration**". **`IEEE Transactions on Computational Social System 2025`**. [paper](https://ieeexplore.ieee.org/document/10539319)
+
+- <a name="PDP-Flames"></a> **(PDP-Flames)** Yuke Hu, Yang Wang, Jian Lou, Wei Liang, Ruofan Wu, Weiqiang Wang, Xiaochen Li, Jinfei Liu, Zhan Qin. "**Privacy Risks of Federated Knowledge Graph Embedding: New Membership Inference Attacks and Personalized Differential Privacy Defense**". **`IEEE Transactions on Dependable and Secure Computing 2025`**. [paper](https://ieeexplore.ieee.org/document/10815075)
 
 - <a name="KGR-DIDA"></a> **(KGR-DIDA)** Xiaowen Wang, Huihui Han, Benhe Gao. "**Enhancing Power Transformer Fault Diagnosis Through Dynamic Knowledge Graph Reasoning**". **`IEEE Transactions on Instrumentation and Measurement 2025`**. [paper](https://ieeexplore.ieee.org/document/10764721)
 
+- <a name="ConR"></a> **(ConR)** Likang Xiao, Richong Zhang, Junfan Chen, Lei Zhang. "**Including Co-Relation via Concatenate Operator for Static and Temporal Knowledge Graph Embedding**". **`ACM Transactions on Information Systems 2025`**. [paper](https://dl.acm.org/doi/10.1145/3733231)
+
+- <a name="DCEL"></a> **(DCEL)** Xiulin Zheng, Pei-Pei Li, Zan Zhang, Jia Wu, Xindong Wu. "**A Relation-Constraint Link Prediction Model for Dynamic Knowledge Graphs with Entity Drift**". **`ACM Transactions on Knowledge Discovery From Data 2025`**. [paper](https://dl.acm.org/doi/10.1145/3725815)
+
+- <a name="JMLP"></a> **(JMLP)** Hao Liu, Dong Li, Bing Zeng, Wei Liang, Dongjie Li. "**Graph Self-attention Mechanism for Interpretable Multi-hop Knowledge Graph Link Prediction**". **`ACM Transactions on Knowledge Discovery From Data 2025`**. [paper](https://dl.acm.org/doi/10.1145/3737702)
+
+- Guangqian Yang, Lei Zhang, Yi Liu, Hongtao Xie, Zhendong Mao. "**Exploiting Pre-Trained Language Models for Black-Box Attack against Knowledge Graph Embeddings**". **`ACM Transactions on Knowledge Discovery From Data 2025`**. [paper](https://dl.acm.org/doi/10.1145/3688850)
+
+- <a name="CLP"></a> **(CLP)** Yuanning Cui, Zequn Sun, Wei Hu. "**Transfer-and-Fusion: Integrated Link Prediction Across Knowledge Graphs**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10897840)
+
 - Tengwei Song, Long Yin, Yang Liu, Long Liao, Jie Luo, Zhiqiang Xu. "**Expressiveness Analysis and Enhancing Framework for Geometric Knowledge Graph Embedding Models**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10736650)
 
+- <a name="GraPE"></a> **(GraPE)** Kai Wang, Dan Lin, Siqiang Luo. "**Graph Percolation Embeddings for Efficient Knowledge Graph Inductive Reasoning**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10770758)
+
+- <a name="MRME-KGC"></a> **(MRME-KGC)** LinYu Li, Zhi Jin, Xuan Zhang, Haoran Duan, Jishu Wang, Zhengwei Tao, Haiyan Zhao, Xiaofeng Zhu. "**Multi-View Riemannian Manifolds Fusion Enhancement for Knowledge Graph Completion**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10884893)
+
+- <a name="SemSI-GAT"></a> **(SemSI-GAT)** Xingfei Wang, Ke Zhang, Muyuan Niu, Xiaofen Wang. "**SemSI-GAT: Semantic Similarity-Based Interaction Graph Attention Network for Knowledge Graph Completion**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10839124)
+
+- <a name="StarRing"></a> **(StarRing)** Jing Zhao, Xinzhu Zhang, Yujia Li, Shiliang Sun. "**Few-Shot Knowledge Graph Completion With Star and Ring Topology Information Aggregation**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10897839)
+
 - <a name="TGformer"></a> **(TGformer)** Fobo Shi, Duantengchuan Li, Xiaoguang Wang, Bing Li, Xindong Wu. "**TGformer: A Graph Transformer Framework for Knowledge Graph Embedding**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10742302)
+
+- <a name="TMR"></a> **(TMR)** Shangfei Zheng, Hongzhi Yin, Tong Chen, Quoc Viet Hung Nguyen, Wei Chen, Lei Zhao. "**Do as I Can, Not as I Get: Topology-Aware Multi-Hop Reasoning on Multi-Modal Knowledge Graphs**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10908095)
+
+- <a name="GAHE"></a> **(GAHE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang. "**GAHE: Geometry-Aware Embedding for Hyper-Relational Knowledge Graph Representation**". **`ACM Transactions on Multimedia Computing Communications and Applications 2025`**. [paper](https://dl.acm.org/doi/10.1145/3733602)
+
+- <a name="CaORG"></a> **(CaORG)** Shiqi Fan, Guoxi Fan, Hongyi Nie, Quanming Yao, Yang Liu, Xuelong Li, Zhen Wang. "**Flow to Candidate: Temporal Knowledge Graph Reasoning With Candidate-Oriented Relational Graph**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10596669)
+
+- <a name="MLEMKD"></a> **(MLEMKD)** Ye Qian, Xiaoyan Wang, Fuhui Sun, Li Pan. "**Compressing Transfer: Mutual Learning Empowered Knowledge Distillation for Temporal Knowledge Graph Reasoning**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10852525)
+
+- <a name="SG-GCN"></a> **(SG-GCN)** Hong Yin, Jiang Zhong, Rongzhen Li, Jiaxing Shang, Chen Wang, Xue Li. "**High-Order Neighbors Aware Representation Learning for Knowledge Graph Completion**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10506111)
+
+- <a name="SGKGE"></a> **(SGKGE)** Ruizhou Liu, Zongsheng Cao, Zhe Wu, Yiling Wu, Qianqian Xu, Qingming Huang. "**SGKGE: Semantically Guided Knowledge Graph Embeddings via Complementary Latent Representations**". **`IEEE Transactions on Knowledge and Data Engineering 2025`**. [paper](https://ieeexplore.ieee.org/document/10974738)
 
 #### Conference
 
