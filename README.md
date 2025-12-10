@@ -456,6 +456,43 @@ Reasoning over Knowledge Graph**". **`ACL 2025`**. [paper](https://aclanthology.
 
 - <a name="HOKE"></a> **(HOKE)** Giuseppe Pirrò. "**Higher Order Knowledge Graph Embeddings**". **`ECIR 2025`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-88708-6_12)
 
+
+- <a name="BYOKG-RAG"></a> **(BYOKG-RAG)** Costas Mavromatis, Soji Adeshina, Vassilis N. Ioannidis, Zhen Han, Qi Zhu, Ian Robinson, Bryan Thompson, Huzefa Rangwala, George Karypis. "**BYOKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1417/)
+
+- <a name="D-RAG"></a> **(D-RAG)** Guangze Gao, Zixuan Li, Chunfeng Yuan, Jiawei Li, Wu Jianzhuo, Yuehao Zhang, Xiaolong Jin, Bing Li, Weiming Hu. "**D-RAG: Differentiable Retrieval-Augmented Generation for Knowledge Graph Question Answering**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1793/)
+
+- <a name="ExGLM"></a> **(ExGLM)** Mo Zhiqiang, yanghua, Jiahui Li, Yuan Liu, Shawn Wong, Jianmin Huang. "**Judge and Improve: Towards a Better Reasoning of Knowledge Graphs with Large Language Models**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.269/)
+
+- <a name="HyperKGR"></a> **(HyperKGR)** Lihui Liu. "**HyperKGR: Knowledge Graph Reasoning in Hyperbolic Space with Graph Neural Network Encoding Symbolic Path**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1279/)
+
+- <a name="iKnow-audio"></a> **(iKnow-audio)** Michel Olvera, Changhong Wang, Paraskevas Stamatiadis, Gaël Richard, Slim Essid. "**iKnow-audio: Integrating Knowledge Graphs with Audio-Language Models**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1759/)
+
+- <a name="KGEC"></a> **(KGEC)** Yang Yang, Mohan Timilsina, Edward Curry. "**KGE Calibrator: An Efficient Probability Calibration Method of Knowledge Graph Embedding Models for Trustworthy Link Prediction**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1522/)
+
+- <a name="LLM-KG4QA"></a> **(LLM-KG4QA)** Chuangtao Ma, Yongrui Chen, Tianxing Wu, Arijit Khan, Haofen Wang. "**Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1249/)
+
+- <a name="MoKGR"></a> **(MoKGR)** Enjun Du, Siyi Liu, Yongqi Zhang. "**Mixture of Length and Pruning Experts for Knowledge Graphs Reasoning**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.23/)
+
+- Victor Charpenay, Steven Schockaert. "**Less Is MuRE: Revisiting Shallow Knowledge Graph Embeddings**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.779/)
+
+- <a name="MusKGC"></a> **(MusKGC)** Xin Song, Liu Haiyan, Haiyang Wang, Ye Wang, Kai Chen, Bin Zhou. "**MusKGC: A Flexible Multi-source Knowledge Enhancement Framework for Open-World Knowledge Graph Completion**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.508/)
+
+- Jiyao Wei, Saiping Guan, Da Li, Zhongni Hou, Miao Su, Yucan Guo, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng. "**A Survey of Link Prediction in N-ary Knowledge Graphs**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1451/)
+
+- <a name="RJE"></a> **(RJE)** Can Lin, Zhengwang Jiang, Ling Zheng, Qi Zhao, Yuhang Zhang, Qi Song, Wangqiu Zhou. "**RJE: A Retrieval-Judgment-Exploration Framework for Efficient Knowledge Graph Question Answering with LLMs**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.873/)
+
+- <a name="RTQA"></a> **(RTQA)** Zhaoyan Gong, Juan Li, Zhiqiang Liu, Lei Liang, Huajun Chen, Wen Zhang. "**RTQA : Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.499/)
+
+- <a name="SAFE"></a> **(SAFE)** Sangoh Lee, Sungho Park, Wook-Shin Han. "**SAFE: Schema-Driven Approximate Distance Join for Efficient Knowledge Graph Querying**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.883/)
+
+- <a name="SAT"></a> **(SAT)** Yu Liu, Yanan Cao, Xixun Lin, Yanmin Shang, Shi Wang, Shirui Pan. "**Enhancing Large Language Model for Knowledge Graph Completion via Structure-Aware Alignment-Tuning**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1061/)
+
+- Hansi Wang, Yue Wang, Qiliang Liang, Yang Liu. "**How Sememic Components Can Benefit Link Prediction for Lexico-Semantic Knowledge Graphs?**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.740/)
+
+- <a name="SEMMA"></a> **(SEMMA)** Arvindh Arun, Sumit Kumar, Mojtaba Nayyeri, Bo Xiong, Ponnurangam Kumaraguru, Antonio Vergari, Steffen Staab. "**SEMMA: A Semantic Aware Knowledge Graph Foundation Model**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1621/)
+
+- <a name="UnKGCP"></a> **(UnKGCP)** Yuqicheng Zhu, Jingcheng Wu, Yizhen Wang, Hongkuan Zhou, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. "**Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.441/)
+
 - Gaurav Pandit, Michael Röder, Axel-Cyrille Ngonga Ngomo. "**Evaluating Approximate Nearest Neighbour Search Systems on Knowledge Graph Embeddings**". **`ESWC 2025`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-94575-5_4)
 
 - Sourabh Kapoor, Arnab Sharma, Michael Röder, Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Robustness Evaluation of Knowledge Graph Embedding Models Under Non-targeted Attacks**". **`ESWC 2025`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-94575-5_15)
